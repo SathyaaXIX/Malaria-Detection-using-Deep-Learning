@@ -1,19 +1,19 @@
 
 
-# 🦟 Malaria Detection Project
+# Malaria Detection Project
 
 
 A deep learning-powered web application that detects malaria from blood cell images using a fine-tuned **MobileNetV2** model. Upload a blood smear image and get an instant prediction — **Parasitized** or **Uninfected**.
 
 ---
 
-## 📸 Demo
+## Demo
 
 > Upload a blood cell image → Get instant malaria diagnosis with confidence score.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 malaria-detection-project/
@@ -28,7 +28,7 @@ malaria-detection-project/
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Model Training** — A MobileNetV2 model is fine-tuned on the [NIH Malaria Cell Images Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria), which contains over 27,000 cell images split equally between parasitized and uninfected classes.
 2. **Backend** — A Flask server loads the trained `.h5` model and exposes a REST API endpoint for image inference.
@@ -36,7 +36,7 @@ malaria-detection-project/
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Component        | Technology               |
 |-----------------|--------------------------|
@@ -49,7 +49,7 @@ malaria-detection-project/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -78,7 +78,7 @@ python app.py
 
 ---
 
-## 🔬 Model Details
+## Model Details
 
 | Property         | Value                    |
 |-----------------|--------------------------|
@@ -91,7 +91,7 @@ python app.py
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric     | Score  |
 |------------|--------|
@@ -103,7 +103,7 @@ python app.py
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 This project uses the **NIH Malaria Cell Images Dataset**:
 - 13,779 parasitized cell images
@@ -112,7 +112,7 @@ This project uses the **NIH Malaria Cell Images Dataset**:
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [NIH – National Library of Medicine](https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-datasheet.html) for the dataset
 - [TensorFlow / Keras](https://www.tensorflow.org/) for the deep learning framework
@@ -120,15 +120,15 @@ This project uses the **NIH Malaria Cell Images Dataset**:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## Author
 
-**diksham-coder**  
+**Sathyaa TS**  
 GitHub: [@diksham-coder](https://github.com/diksham-coder)
 
 ---
