@@ -129,7 +129,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 **Sathyaa TS**  
-GitHub: [@diksham-coder](https://github.com/diksham-coder)
+
 
 ---
 
